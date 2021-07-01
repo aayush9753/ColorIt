@@ -1,0 +1,8 @@
+glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+numpy==1.20.2
+pandas @ file:///C:/ci/pandas_1618365634936/work
+Pillow @ file:///C:/ci/pillow_1617386341487/work
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111
+
