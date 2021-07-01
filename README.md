@@ -1,6 +1,6 @@
 # ColorIt
-This project is based on the methods proposed in 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+This project is based on the methods proposed in the paper 
+[![(http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://arxiv.org/abs/1603.08511)
 
 ## Sample Outputs
 Black and White Image             |  Colorized Image
