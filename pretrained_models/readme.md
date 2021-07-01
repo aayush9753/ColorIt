@@ -1,3 +1,3 @@
-You can get the models from the below drive link. 
-https://drive.google.com/drive/folders/153PYVwK_6knKPpDJMhi3onojJdCVUlk2?usp=sharing
-Add the both files in this folder only.
+- You can get the models from the below drive link. 
+- https://drive.google.com/drive/folders/153PYVwK_6knKPpDJMhi3onojJdCVUlk2?usp=sharing
+- Add the both files in this folder only.
