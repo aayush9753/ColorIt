@@ -1,5 +1,5 @@
 # ColorIt
-- This project is based on the methods proposed in the paper [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) and we aim to improve the performance via training the [ECV16 Model](https://github.com/richzhang/colorization/blob/master/colorizers/eccv16.py) (A normal residual convnet model proposed in the pape) proposed by the authors using Generative Adversial Networks. 
+- This project is based on the methods proposed in the paper [Colorful Image Colorization](https://github.com/richzhang/colorization) and we aim to improve the performance via training the [ECV16 Model](https://github.com/richzhang/colorization/blob/master/colorizers/eccv16.py) (A normal residual convnet model proposed in the pape) proposed by the authors using Generative Adversial Networks. 
 - ECV16 Model is used as the [Generator](https://github.com/aayush9753/ColorIt/blob/main/ECV_Generator.py).
 - We are using pre-traine VGG19 model as  [Feature extractor](https://github.com/aayush9753/ColorIt/blob/main/Feature_extractor.py).
 This is a noval approach to compare to images and use that comparison as a loss to train a model.
