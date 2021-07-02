@@ -19,6 +19,7 @@ Black and White Image             |  Colorized Image
 ![](https://github.com/aayush9753/ColorIt/blob/main/sample/9.jpg)  |  ![](https://github.com/aayush9753/ColorIt/blob/main/Outputs/multiple_Outputs/9.jpg)
 
 ### [Colorful Image Colorization](https://github.com/richzhang/colorization)
+```
 @inproceedings{zhang2016colorful,
   title={Colorful Image Colorization},
   author={Zhang, Richard and Isola, Phillip and Efros, Alexei A},
@@ -35,3 +36,4 @@ Black and White Image             |  Colorized Image
   year={2017},
   publisher={ACM}
 }
+```
